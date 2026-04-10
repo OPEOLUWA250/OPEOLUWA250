@@ -1,6 +1,6 @@
 # Hi there, I'm Opeoluwa 👋
 
-> Frontend Web Developer | Content Creator | NYSC Corps Member @ ProDevs
+> Frontend Web Developer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email)
@@ -41,17 +41,10 @@ Built with WordPress, WooCommerce and custom PHP.
 
 ---
 
-## 📊 GitHub Stats
-
-![Opeoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OPEOLUWA250&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OPEOLUWA250&layout=compact&theme=dark&hide_border=true)
-
----
+ 
 
 ## 🌱 Currently
 
-- 🏢 Serving as a **Corps Member at ProDevs** — connecting African tech talent with global opportunities
 - 💻 Contributing to open source geospatial projects
 - 📱 Building content around **web development**
 - 📚 Deepening skills in **React** and **Next.js**
@@ -60,11 +53,8 @@ Built with WordPress, WooCommerce and custom PHP.
 
 ## 🎯 About Me
 
-- 🎓 Computer Science graduate
-- 🌍 Based in **Lagos, Nigeria**
 - 💡 Passionate about building accessible and beautiful web experiences
 - 🤝 Open to collaborations on exciting web projects
-- 🎥 Content creator covering web development topics
 
 ---
 
