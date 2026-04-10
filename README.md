@@ -15,8 +15,8 @@ const skills = {
   languages: ['JavaScript', 'HTML', 'CSS'],
   frameworks: ['React', 'Next.js', 'Tailwind CSS'],
   tools: ['Git', 'GitHub', 'Figma', 'VS Code'],
-  platforms: ['Vercel', 'WordPress'],
-  currently_learning: ['TypeScript', 'Geospatial Web Development'],
+  platforms: ['Vercel', 'WordPress', 'Wix'],
+  currently_learning: ['AI Engineering and Automation'],
 };
 ```
 
@@ -46,7 +46,6 @@ Built with WordPress, WooCommerce and custom PHP.
 ## 🌱 Currently
 
 - 💻 Contributing to open source geospatial projects
-- 📱 Building content around **web development**
 - 📚 Deepening skills in **React** and **Next.js**
 
 ---
