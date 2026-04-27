@@ -19,43 +19,8 @@ const skills = {
 };
 ```
 
----
-
-## 🚀 Featured Projects
-
-### 🌍 [EcoClimate Foundation](https://ecoclimatefoundation.org)
-A web platform for an environmental foundation.
-Built with modern web technologies and deployed on Vercel.
-
-### 🗺️ [Campus Guide](https://campusguide.tech/map)
-Contributing to an open-source platform enabling students 
-and campus visitors to navigate university campuses 
-using OpenStreetMap.
-> Forked from vickystickz/Campus-Guide
-
-### 🐟 [SeaVentures Kenya](https://seaventureskenya.com)
-A WordPress website for a Kenyan blue-economy startup 
-transforming fish waste into high-quality animal feeds.
-Built with WordPress, WooCommerce and custom PHP.
-
----
 
  
-
-## 🌱 Currently
-
-- 💻 Contributing to open source geospatial projects
-- 📚 Deepening skills in **React** and **Next.js**
-
----
-
-## 🎯 About Me
-
-- 💡 Passionate about building accessible and beautiful web experiences
-- 🤝 Open to collaborations on exciting web projects
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing new projects, creative ideas or opportunities to be part of something great.
