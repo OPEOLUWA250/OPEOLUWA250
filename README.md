@@ -3,8 +3,8 @@
 > Frontend Web Developer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/opeoluwa-adejumo/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:opeoluwadejumos@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://portfolio-website-tau-one-87.vercel.app/)
 
 ---
 
@@ -12,10 +12,9 @@
 
 ```javascript
 const skills = {
-  languages: ['JavaScript', 'HTML', 'CSS'],
-  frameworks: ['React', 'Next.js', 'Tailwind CSS'],
-  tools: ['Git', 'GitHub', 'Figma', 'VS Code'],
-  platforms: ['Vercel', 'WordPress', 'Wix'],
+  languages: ['JavaScript', 'Typescript', 'Python'],
+  frameworks: ['React', 'Next.js', 'FastAPI'],
+  platforms: ['Vercel', 'Github'],
   currently_learning: ['AI Engineering and Automation'],
 };
 ```
