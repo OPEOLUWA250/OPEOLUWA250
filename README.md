@@ -15,7 +15,7 @@ const skills = {
   languages: ['JavaScript', 'Typescript', 'Python'],
   frameworks: ['React', 'Next.js', 'FastAPI'],
   platforms: ['Vercel', 'Github'],
-  currently_learning: ['AI Engineering and Automation'],
+  currently_exploring: ['AI Engineering and Automation'],
 };
 ```
 
